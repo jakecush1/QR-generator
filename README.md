@@ -21,9 +21,13 @@ Visit the live app: [jakecushway.ca/pages/QR-generator.html](https://jakecushway
    git clone https://github.com/jakecush1/your-qr-generator-repo.git
    cd your-qr-generator-repo
    ```
-   
-2. Open the HTML file in your browser
 
-3. Enter your URL, click Generate QR Code, and then download the image.
+   OR
+
+   Download or copy the file to your local machine.
+   
+3. Open the HTML file in your browser
+
+4. Enter your URL, click Generate QR Code, and then download the image.
 
 the app runs entirely client-side with HTML, CSS, and JavaScript.
