@@ -24,7 +24,7 @@ Visit the live app: [jakecushway.ca/pages/QR-generator.html](https://jakecushway
 
    OR
 
-   Download or copy the file ['QR-gen.html'][https://github.com/jakecush1/QR-generator/blob/main/QR-gen.html] to your local machine.
+   Download or copy the file [QR-gen.html](QR-gen.html) to your local machine.
    
 3. Open the HTML file in your browser
 
